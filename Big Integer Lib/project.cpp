@@ -415,7 +415,7 @@ string BigInteger::subtract(string number1, string number2)
     {
         if (number1[i] < number2[i])
         {
-            number1[i] += 10;
+            number1[i] = number1[i]-10;
             number1[i - 1]--;
         }
         sub[i] = ((number1[i] - '0') - (number2[i] - '0')) + '0';
