@@ -2,14 +2,10 @@
   Big Integer library in C++, single file implementation.
  */
 
-#include <iostream>
-#include <string>
-#include <sstream>
-#include <math>
+#include<bits/stdc++.h>
+using namespace std;
 #define MAX 10000 // for strings
 // MAX length of a string, So number can be as high as 10^(10000)
-
-using namespace std;
 
 class BigInteger
 {
