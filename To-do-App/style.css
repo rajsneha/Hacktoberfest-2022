@@ -5,7 +5,7 @@
   }
 
 html {
-font-size: 67.5%;
+font-size: 77.5%;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding-top: 5rem;
+    padding-top: 4rem;
 }
 header .leftHead{
     font-size: 4.5rem;
