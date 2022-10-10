@@ -27,7 +27,7 @@ body {
 }
 header .leftHead{
     font-size: 4.5rem;
-    font-weight: 600;
+    font-weight: 700;
 }
 header .leftHead span{
     font-weight: 300;
@@ -68,7 +68,7 @@ header .rightHead{
     box-shadow: 10px 10px 10px #00000029;
 }
 .card h4 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 500;
     color: #e74c3c;
 }
@@ -140,7 +140,7 @@ header .rightHead{
     font-size: 1.6rem;
     cursor: pointer;
     background-color: #e74c3c;
-    border-radius: 50%;
+    border-radius: 60%;
 }
 .listItem #listContent .eachItem{
     text-align: center;
