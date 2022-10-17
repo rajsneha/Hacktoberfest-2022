@@ -5,14 +5,14 @@
   }
 
 html {
-font-size: 88%;
+font-size: 77.5%;
 }
 
 body {
     background-color: #eee;
     font-family: 'Source Sans Pro', sans-serif;
     color: #ffffff;
-    background-color: #FFF8DC;
+    background-color: #000000;
 }
  .active{
     filter: blur(1.5rem);
@@ -26,7 +26,7 @@ body {
     padding-top: 4rem;
 }
 header .leftHead{
-    font-size: 5.5rem;
+    font-size: 4.5rem;
     font-weight: 700;
 }
 header .leftHead span{
@@ -91,7 +91,7 @@ header .rightHead{
     opacity: 1;
     border: none;
     font-size: 2.5rem;
-    color:#00FF00;
+    color:#ffffff;
     margin: 1rem;
     cursor: pointer;
     text-align: center;
@@ -109,10 +109,10 @@ header .rightHead{
     padding-bottom: 2rem;
 }
 .listItem header{
-    padding: 1rem;
+    padding: 2rem;
     font-size: 2rem;
     font-weight: 300;
-    color: #DC143C;
+    color: #e74c3c;
     text-align: center;
     width:100%;
     border-bottom: 0.1rem solid #000000;
@@ -121,7 +121,7 @@ header .rightHead{
     list-style: none;
     width: 100%;
     height: 100%;
-    padding: 2rem;
+    padding: 5rem;
 }
 .listItem .fas {
     position: absolute;
