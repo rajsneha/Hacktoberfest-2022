@@ -70,7 +70,7 @@ header .rightHead{
 .card h4 {
     font-size: 2rem;
     font-weight: 500;
-    color: #e74c3c;
+    color: #DC143C;
 }
 .card input{
     border: 1px solid #e74c3c;
@@ -127,7 +127,7 @@ header .rightHead{
     position: absolute;
     bottom: 2rem;
     right: 1rem;
-    color: #4b8ce8;
+    color: #00FF00;
     font-size: 2.5rem;
     cursor: pointer;
 }
